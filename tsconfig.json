@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "allowJs": true, // allows js file too
+        "checkJs": true, // checks js file too
+        "outDir": "dist",
+        "target": "ES6",
+        // "noEmit": true // only for type checking and not create a js equivalent
+    },
+    "include": ["src/**/*"]
+}
