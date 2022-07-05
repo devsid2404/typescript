@@ -2,7 +2,7 @@
 
 This repo explains different features for type-checking with examples.
 
-Following are the list of festures of typescript coverd in this repo =>
+Following are the list of features of typescript covered in this repo =>
 - basic type checking
 - custom type checking
 - interface 
