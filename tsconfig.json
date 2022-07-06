@@ -5,6 +5,8 @@
         "outDir": "dist",
         "target": "ES6",
         // "noEmit": true // only for type checking and not create a js equivalent
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true
     },
     "include": ["src/**/*"]
 }

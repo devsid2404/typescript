@@ -16,3 +16,11 @@ Following are the list of features of typescript covered in this repo =>
 - omit
 - pick
 - require
+- decorators
+
+
+Run a typescript file 
+
+- node v14.x +
+- npm ci
+- node_modules/.bin/ts-node src/<folder_name>/<file_name>
